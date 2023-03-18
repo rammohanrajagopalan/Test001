@@ -1,1 +1,3 @@
 This is test repo created to play with Git ;)
+
+Git is easy to play with, but you need Bash command basics...
